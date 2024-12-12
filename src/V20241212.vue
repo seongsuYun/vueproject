@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld123',
+  name: 'HelloWorld121233',
   props: {
     msg: String
   }
