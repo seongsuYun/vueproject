@@ -16,6 +16,8 @@ export default {
 const sample = [{
   a:111, b:222
 }]
+
+const testValue = ref("")
 </script>
 
 <style>
