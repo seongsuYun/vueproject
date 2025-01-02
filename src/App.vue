@@ -12,6 +12,8 @@ export default {
     HelloWorld
   }
 }
+
+const testValue = ref("")
 </script>
 
 <style>
