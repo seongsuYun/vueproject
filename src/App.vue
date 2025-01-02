@@ -18,6 +18,10 @@ const sample = [{
 }]
 
 const testValue = ref("")
+
+const sample2 = [{
+  a2:111, b2:222
+}]
 </script>
 
 <style>
