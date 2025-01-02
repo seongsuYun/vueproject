@@ -12,6 +12,10 @@ export default {
     HelloWorld
   }
 }
+
+const sample = [{
+  a:111, b:222
+}]
 </script>
 
 <style>
