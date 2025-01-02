@@ -17,6 +17,8 @@ const sample = [{
   a:111, b:222
 }]
 
+const testValue = ref("")
+
 const sample2 = [{
   a2:111, b2:222
 }]
